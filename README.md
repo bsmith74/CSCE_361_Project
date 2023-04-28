@@ -1,6 +1,9 @@
 # CSCE361Project
 
 ### This program is no longer connected to the database, but it will open if you run it in Visual Studio
+#### The files in this repository are the source files released from the original repository, due to the original repository being private.
+
+<br />
 Project Topic: Voting System
 
 
