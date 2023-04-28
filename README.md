@@ -1,7 +1,10 @@
 # CSCE361Project
-Capstone Project Group 3: Isaac Baysinger, Noah Hudson, Arielle Monson, Brady Smith
 
+### This program is no longer connected to the database, but it will open if you run it in Visual Studio
 Project Topic: Voting System
+
+
+Capstone Project Group 3: Isaac Baysinger, Noah Hudson, Arielle Monson, Brady Smith
 
 ## How to use our program
 There are several roles with increasing privileges. These roles will determine how a user interacts with the program. 
